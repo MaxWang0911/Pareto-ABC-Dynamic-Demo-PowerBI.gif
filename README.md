@@ -20,7 +20,7 @@ Users can dynamically switch **metrics**, **dimensions**, **ABC threshold parame
 
 ---
 
-## 🔧 Tech Highlights
+##  Tech Highlights
 
 ###  Advanced DAX used:
 - `SWITCH()` + `SELECTEDVALUE()` for dynamic metric switching  
