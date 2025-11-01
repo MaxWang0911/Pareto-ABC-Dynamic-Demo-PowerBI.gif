@@ -31,6 +31,8 @@ Users can dynamically switch **metrics**, **dimensions**, **ABC threshold parame
 
  If you like this repository, please give it a star!⭐
 
+---
+---
  
 How to Use
 
@@ -44,6 +46,8 @@ Adjust ABC Threshold % and TOP N
 
 Charts will update dynamically
 
+---
+---
 
 Roadmap / Future Improvements
 
