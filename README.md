@@ -29,4 +29,30 @@ Users can dynamically switch **metrics**, **dimensions**, **ABC threshold parame
 > No hardcoding. No static grouping.
 
 
+ If you like this repository, please give it a star!⭐
 
+ 
+How to Use
+
+Open Max_Dynamic Pareto ABC Analysis.pbix in Power BI Desktop
+
+Select Metric (Sales Amount / Profit / Quantity)
+
+Select Dimension (Product Category / Customer State / Salesperson)
+
+Adjust ABC Threshold % and TOP N
+
+Charts will update dynamically
+
+
+Roadmap / Future Improvements
+
+ Add export report page to PDF template
+
+ Add multi-measure comparison mode
+
+ Publish as Power BI App
+
+🧑‍💻 Author / Contact 
+Max Wang
+Sydney, Australia
