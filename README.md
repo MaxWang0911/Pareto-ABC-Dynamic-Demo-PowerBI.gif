@@ -4,6 +4,7 @@ An interactive Power BI dashboard that performs **dynamic Pareto ABC classificat
 Users can dynamically switch **metrics**, **dimensions**, **ABC threshold parameters**, and **TOP N filtering** — all without modifying DAX or visuals.
 
 ---
+---
 
 ##  Features
 
@@ -56,6 +57,9 @@ Roadmap / Future Improvements
  Add multi-measure comparison mode
 
  Publish as Power BI App
+ 
+---
+---
 
 🧑‍💻 Author / Contact 
 Max Wang
